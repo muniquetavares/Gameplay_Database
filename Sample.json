@@ -1,0 +1,56 @@
+{
+  "_id": 4312550,
+  "session": 1553794,
+  "user": {
+    "user_id": 815868,
+    "first_name": "Fiann",
+    "last_name": "Schust",
+    "level": "Master",
+    "date_of_birth": "8/27/1989",
+    "age": "35",
+    "gender": "Female",
+    "email": "fschust19@webeden.co.uk",
+    "phone_number": "396-705-7081",
+    "address": "061 Oneill Parkway",
+    "city": "Kitimat",
+    "province_state": "BC",
+    "country": "Canada"
+  },
+  "game": {
+    "game_id": 6,
+    "name": "Snowboard Rush 3000",
+    "genre": "Sports",
+    "number_of_players": 2,
+    "release_date": "2020-02-14",
+    "rating": 10,
+    "price": 69.99
+  },
+  "start_time": {
+    "time_id": 8408571,
+    "time_zone": "America/Vancouver",
+    "the_start_time": "01:55 PM",
+    "start_time_24hr": "13:55",
+    "am_pm": "PM",
+    "the_start_hour": "13",
+    "the_start_minute": "55",
+    "time_of_day": "Afternoon",
+    "the_date": "2009-02-23",
+    "the_day_in_week": "Tuesday",
+    "the_month_number": 2,
+    "the_month": "February",
+    "the_year": 2009,
+    "isWeekend": false,
+    "isHoliday": true
+  },
+  "device": {
+    "device_id": 693779,
+    "type": "Smartphone",
+    "operating_system": "Android",
+    "device_ip": "167.94.41.75"
+  },
+  "session_start_reason": {
+    "reason_id": 3,
+    "reason": "Social Connection"
+  },
+  "total_minutes": 36
+}
