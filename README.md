@@ -6,7 +6,7 @@ Link to the server may be provided upon request due to security reasons. As refe
 
 🚀 In this project, my group and I developed a noSQL database to help a company track the minutes played during gaming sessions. This database is designed to monitor user activity, device usage, gaming trends, and session reasons, providing valuable insights and simplifying the generation of detailed reports.
 
-I was responsible for designing the star schema, generating fake data using the Mockaroo website, and migrating the data to the MongoDB database.
+I was responsible for designing the star schema (please see `Dimensional_model.mwb`), generating fake data using the Mockaroo website, and migrating the data to the MongoDB database.
 
 📌 Suggested queries using javascript:
 
